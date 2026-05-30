@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#4F46E5</color> <!-- Indigo 600 -->
+    <color name="primary_dark">#4338CA</color> <!-- Indigo 700 -->
+    <color name="accent">#818CF8</color> <!-- Indigo 400 -->
+    <color name="bg_light">#F8FAFC</color> <!-- Slate 50 -->
+    <color name="text_dark">#1E293B</color> <!-- Slate 800 -->
+    <color name="text_muted">#64748B</color> <!-- Slate 500 -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

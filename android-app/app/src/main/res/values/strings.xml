@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CBT Exam Browser</string>
+    <string name="title_url_setup">Konfigurasi Server</string>
+    <string name="desc_url_setup">Silakan masukkan alamat IP atau URL Server CBT sekolah Anda untuk memulai ujian.</string>
+    <string name="hint_url_setup">Contoh: http://192.168.1.100/cbt</string>
+    <string name="btn_save">SIMPAN DAN HUBUNGKAN</string>
+    <string name="invalid_url">Format URL tidak valid! Harus diawali http:// atau https://</string>
+    <string name="admin_password_hint">Masukkan Password Admin</string>
+    <string name="dialog_exit_title">Keluar Ujian</string>
+    <string name="dialog_exit_msg">Apakah Anda yakin ingin keluar dari aplikasi ujian?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+</resources>
